@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="by.mastihin.applicationsize.applicationsizeexperiment">
+          package="r.c.b.a">
 
     <application
-        android:label="A"
-        android:supportsRtl="true">
-        <activity android:name=".MainActivity">
+        android:label="A">
+        <activity android:name="r.c.b.a.A">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
